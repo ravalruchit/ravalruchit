@@ -130,6 +130,7 @@ The project explores how **AI, data analysis, and industrial monitoring** can be
 Industrial Intelligence · Data Analysis · AI · Sustainability
 
 [→ View Repository](https://github.com/ravalruchit/CircuLeak)
+
 ---
 
 ## 💬 TechTalk
