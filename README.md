@@ -71,106 +71,91 @@ I enjoy working on projects that go beyond basic CRUD applications — from **AI
 
 # ⚡ Selected Work
 
-> Building systems that solve real problems — from intelligent career platforms
-> and fleet safety to university infrastructure and developer tools.
+> Three projects that represent the kind of systems I enjoy building —
+> intelligent applications, real-world workflows, and collaborative platforms.
 
 <br>
 
-### 01 · [🛡️ SentinelDrive](https://github.com/ravalruchit/Sentinel_Drive)
+<table>
+<tr>
 
-> **Fleet Safety & Driver Monitoring**
+<td width="33%" valign="top">
 
-A computer-vision powered fleet safety platform designed to detect
-driver fatigue, distraction, unsafe behavior, and generate actionable
-safety insights.
+<h3>🛡️ <a href="https://github.com/ravalruchit/Sentinel_Drive">SentinelDrive</a></h3>
 
-`Python` · `FastAPI` · `React` · `OpenCV` · `MediaPipe`
+<strong>Fleet Safety & Driver Monitoring</strong>
 
-**Focus:** Computer Vision · Real-Time Monitoring · Safety Analytics
+<br><br>
 
----
+Computer-vision powered fleet safety platform designed to detect driver fatigue, distraction, unsafe behavior, and generate actionable safety insights.
 
-### 02 · [🧠 SkillPath](https://github.com/ravalruchit/Skill_Path)
+<br><br>
 
-> **AI-Powered Career Intelligence**
+<code>Python</code>
+<code>FastAPI</code>
+<code>React</code>
+<code>OpenCV</code>
+<code>MediaPipe</code>
 
-An AI-powered career intelligence platform for skill assessment,
-skill-gap analysis, and personalized career recommendations.
+<br><br>
 
-`PHP` · `MySQL` · `Claude API` · `AI`
+<strong>Focus</strong><br>
+Computer Vision · Real-Time Monitoring · Safety Analytics
 
-**Focus:** AI Applications · Skill Intelligence · Career Technology
+</td>
 
----
+<td width="33%" valign="top">
 
-### 03 · [🚀 InternGrowth](https://github.com/ravalruchit/InternGrowth)
+<h3>🚀 <a href="https://github.com/ravalruchit/InternGrowth">InternGrowth</a></h3>
 
-> **Internship & Task Intelligence Platform**
+<strong>Internship & Task Platform</strong>
 
-A platform connecting students and startups through structured
-internship workflows, task-based progress, points, and certificates.
+<br><br>
 
-`Laravel` · `PHP` · `MySQL`
+A platform connecting students and startups through structured internship workflows, task-based progress, points, and certificates.
 
-**Focus:** Workflow Systems · Student Platforms · Backend Development
+<br><br>
 
----
+<code>Laravel</code>
+<code>PHP</code>
+<code>MySQL</code>
 
-### 04 · [♻️ CircuLeak](https://github.com/ravalruchit/CircuLeak)
+<br><br>
 
-> **Industrial Emission Intelligence**
+<strong>Focus</strong><br>
+Workflow Systems · Student Platforms · Backend Development
 
-A system focused on detecting industrial emission leak points and
-identifying circular alternatives through AI and computer vision.
+</td>
 
-`Python` · `AI/ML` · `Computer Vision`
+<td width="33%" valign="top">
 
-**Focus:** Industrial Intelligence · Sustainability · Computer Vision
+<h3>💬 <a href="https://github.com/ravalruchit/techtalk">TechTalk</a></h3>
 
----
+<strong>Technical Knowledge Exchange</strong>
 
-### 05 · [💬 TechTalk](https://github.com/ravalruchit/techtalk)
+<br><br>
 
-> **Technical Knowledge Exchange**
+A collaborative platform designed to connect people with different technical skills and enable knowledge sharing and interaction.
 
-A platform designed to connect people with different technical
-skills and enable collaborative knowledge sharing.
+<br><br>
 
-`PHP` · `MySQL` · `JavaScript`
+<code>PHP</code>
+<code>MySQL</code>
+<code>JavaScript</code>
 
-**Focus:** Collaboration · Knowledge Sharing · Web Applications
+<br><br>
 
----
+<strong>Focus</strong><br>
+Collaboration · Knowledge Sharing · Web Applications
 
-### 06 · [☁️ UniCodeIDE](https://github.com/ravalruchit/UniCodeIDE)
+</td>
 
-> **University Cloud IDE & Learning Platform**
-
-A university-focused development and learning environment combining
-coding, courses, assignments, examinations, and academic workflows.
-
-**Status:** 🚧 In Development
-
-`MERN` · `Docker` · `Cloud Development`
-
-**Focus:** Developer Infrastructure · EdTech · Cloud Development
+</tr>
+</table>
 
 ---
 
-### 07 · [🚌 Smart Bus Management System](https://github.com/ravalruchit/Smart_Bus_Management_System)
-
-> **Transport Management Platform**
-
-A web-based system for managing buses, routes, schedules, users,
-and passenger operations.
-
-`PHP` · `MySQL` · `JavaScript`
-
-**Focus:** Management Systems · Web Applications · Database Design
-
----
-
-# 🧩 What I Build
+## 🧩 What I Build
 
 | Area | What I Work On |
 |---|---|
@@ -183,13 +168,11 @@ and passenger operations.
 
 ---
 
-# 🧠 Currently Building
+## 🧠 Currently Building
 
 ### ☁️ UniCodeIDE
 
-A university-focused development and learning ecosystem designed to
-bring coding, academic content, assignments, examinations, and
-development workflows into one environment.
+A university-focused development and learning ecosystem designed to bring coding, academic content, assignments, examinations, and development workflows into one environment.
 
 **Status:** 🚧 Active Development
 
@@ -197,7 +180,7 @@ development workflows into one environment.
 
 ---
 
-# 📈 Engineering Focus
+## 📈 Engineering Focus
 
 I'm currently deepening my skills in:
 
