@@ -4,7 +4,7 @@
 
 I build **practical software systems that solve real problems** — from fleet safety and student career platforms to university development infrastructure and intelligent industrial applications.
 
-My work sits at the intersection of **full-stack development, backend engineering, AI/ML, and developer-focused systems**.
+My work sites at the intersection of **full-stack development, backend engineering, AI/ML, and developer-focused systems**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchit%20Raval-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ruchit-raval-4b9374341/)
 [![GitHub](https://img.shields.io/badge/GitHub-ravalruchit-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ravalruchit)
